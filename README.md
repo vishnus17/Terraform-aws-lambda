@@ -1,10 +1,11 @@
 # Terraform-aws-lambda
 Automate the deployment of python code to a aws lambda function using Terraform
 
-Inititalize terraform using the command:
+
+## Inititalize terraform using the command:
 ### `terraform init`
 
 ***Use terraform plan to see the change***
 
-Finally run the following command to run the terraform:
+## Finally run the following command to run the terraform:
 ### `terraform apply`
