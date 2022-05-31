@@ -6,7 +6,8 @@ Automate the deployment of python code to a aws lambda function using Terraform
 ### `terraform init`
 
 
-> ***Use terraform plan to see the change***
+> ## To see the changes use the command:
+> ## Terraform plan
 
 
 ## Finally run the following command to create the resources:
