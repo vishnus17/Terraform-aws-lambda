@@ -9,3 +9,7 @@ Automate the deployment of python code to a aws lambda function using Terraform
 ### Plan the resources you're going to make using: `terraform plan`
 
 ### Finally create the resources using: `terraform apply`
+
+
+Find the full article here:
+https://www.middlewareinventory.com/blog/aws-lambda-terraform/
